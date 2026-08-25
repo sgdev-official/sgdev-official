@@ -49,16 +49,17 @@
 ---
 
 ## 📊 My GitHub Aura & Contribution
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sgdev-official&theme=tokyonight&hide_border=true" alt="Shubhomoy's Streak Stats" />
+  <img src="https://ghchart.rshah.org/sgdev-official" alt="Shubhomoy's Github Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgdev-official&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgdev-official&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Shubhomoy's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sgdev-official&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=sgdev-official&theme=tokyonight&hide_border=true&v=1" alt="Shubhomoy's Streak Stats" />
 </p>
 
 ---
