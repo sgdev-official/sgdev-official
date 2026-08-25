@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20%F0%9F%9A%80&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Age">
-  <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
+  <a href="https://sg1234a.vercel.app/"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
   <a href="#-featured-projects-live-on-sourceforge"><img src="https://img.shields.io/badge/Main%20Focus-AI%20and%20Games-success?style=for-the-badge" alt="Focus"></a>
 </p>
 
@@ -50,7 +50,15 @@
 
 ## 📊 My GitHub Aura & Contribution
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgdev-official&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=sgdev-official&theme=tokyonight&hide_border=true" alt="Shubhomoy's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgdev-official&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sgdev-official&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -70,7 +78,7 @@
     </td>
     <td valign="top" width="50%">
       <h3>📬 Connect With Me</h3>
-      <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Website-shubhomoy.dnc.su-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a> <br>
+      <a href="https://sg1234a.vercel.app/"><img src="https://img.shields.io/badge/Website-sg1234a.vercel.app-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a> <br>
       <a href="mailto:sgdev@netc.fr"><img src="https://img.shields.io/badge/Email-sgdev%40netc.fr-D44638?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <br>
       <a href="https://dev.to/sgdev_sg_dev"><img src="https://img.shields.io/badge/Dev.to-sgdev__sg__dev-0A0A0A?style=flat-square&logo=devto&logoColor=white" alt="Dev.to"></a> <br>
       <a href="https://www.behance.net/sgdev1"><img src="https://img.shields.io/badge/Behance-sgdev1-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a> <br>
@@ -176,6 +184,14 @@ A handy utility to visualize and track keystrokes in real time.
   </a>
 </p>
 
+### 🖥️ S Localhost
+A simple local server/hosting utility for quickly running projects on localhost.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-localhost/">
+    <img src="https://img.shields.io/sourceforge/dt/s-localhost?color=lightgrey&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Localhost-Downloads" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -183,5 +199,5 @@ A handy utility to visualize and track keystrokes in real time.
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep+Coding+..+Keep+Rocking+🚀&fontSize=20" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep+Coding+..+Keep+Rocking+%F0%9F%9A%80&fontSize=20" alt="Footer" />
 </p>
