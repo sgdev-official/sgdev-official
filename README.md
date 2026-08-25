@@ -50,7 +50,10 @@
 
 ## 📊 My GitHub Aura & Contribution
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgdev-official&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgdev-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubhomoy's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgdev-official&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
