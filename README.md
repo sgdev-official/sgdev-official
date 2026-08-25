@@ -176,6 +176,14 @@ A handy utility to visualize and track keystrokes in real time.
   </a>
 </p>
 
+### 🖥️ S Localhost
+A simple local server/hosting utility for quickly running projects on localhost.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-localhost/">
+    <img src="https://img.shields.io/sourceforge/dt/s-localhost?color=lightgrey&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Localhost-Downloads" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
