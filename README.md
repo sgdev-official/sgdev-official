@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="mailto:sgdev@netc.fr">
+    <font size="3" color="#FF8C00"><b>📩 Anyone can email me anytime: sgdev@netc.fr</b></font>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sgdev-official&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="sgdev profile views" />
 </p>
 
@@ -32,7 +38,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Age">
-  <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
+  <a href="https://sg1234a.vercel.app/"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
   <a href="#-featured-projects-live-on-sourceforge"><img src="https://img.shields.io/badge/Main%20Focus-AI%20and%20Games-success?style=for-the-badge" alt="Focus"></a>
 </p>
 
@@ -79,7 +85,7 @@
     </td>
     <td valign="top" width="50%">
       <h3>📬 Connect With Me</h3>
-      <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Website-shubhomoy.dnc.su-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a> <br>
+      <a href="https://sg1234a.vercel.app/"><img src="https://img.shields.io/badge/Website-sg1234a.vercel.app-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a> <br>
       <a href="mailto:sgdev@netc.fr"><img src="https://img.shields.io/badge/Email-sgdev%40netc.fr-D44638?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <br>
       <a href="https://dev.to/sgdev_sg_dev"><img src="https://img.shields.io/badge/Dev.to-sgdev__sg__dev-0A0A0A?style=flat-square&logo=devto&logoColor=white" alt="Dev.to"></a> <br>
       <a href="https://www.behance.net/sgdev1"><img src="https://img.shields.io/badge/Behance-sgdev1-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a> <br>
