@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:sgdev@netc.fr">
-    <font size="3" color="#FF8C00"><b>📩 Anyone can email me anytime: sgdev@netc.fr</b></font>
+    <font size="3" color="#FF8C00"><b>📩 Anyone can email me anytime: info@sgdev.qd.je</b></font>
   </a>
 </p>
 
